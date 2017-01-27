@@ -38,6 +38,10 @@ AlexNet example: https://gist.github.com/kevinlin311tw/a0a36e2b4d6ab9b09201
 
 * Windows support
 * Developed by University of Montreal
+* Similar, but more verbose than Tensorflow
+* No built-in tools for optimizers
+
+![comparison](theano-tf.png)
 
 ### Tensorflow
 
